@@ -43,7 +43,7 @@ global.owner = ['Didula Rashmika']
 
 global.premium = ['💗Qeen Ashiya🧚']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '94702654417'
 
 global.ownername = 'Didula Rashmika'
 
